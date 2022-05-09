@@ -211,7 +211,15 @@ h6 {
 /* --------------------------------------
    3. Home
 -----------------------------------------*/
-
+h1 {
+    text-shadow: 2px 2px #191a47;
+}
+.greet {
+    text-shadow: 1px 1px #dadd36;
+}
+.home-text {
+    text-shadow: 1px 1px #dadd36;
+}
 .mainoverlay {
 	height: 100%;
 	background: rgba(31, 34, 51, .45);
@@ -864,7 +872,7 @@ h6 {
 		position: relative;
     }
     
-    .navbar .navbar-nav {
+    /* .navbar .navbar-nav {
 		position: absolute;
 		top: 15px;
 		left: 0; 
@@ -879,7 +887,7 @@ h6 {
 		-o-transform: scaleY(0);
 		transform: scaleY(0);
 		transform-origin: 0 0;
-    }
+    } */
 	
 	.navbar.menu-active .navbar-nav {
 		visibility: visible;
