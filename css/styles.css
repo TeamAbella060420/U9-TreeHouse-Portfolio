@@ -211,6 +211,9 @@ h6 {
 /* --------------------------------------
    3. Home
 -----------------------------------------*/
+.totop {
+    position: fixed;
+}
 .typed-cursor {
     font-size: 4em;
     font-weight: 400;
