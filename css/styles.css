@@ -211,6 +211,12 @@ h6 {
 /* --------------------------------------
    3. Home
 -----------------------------------------*/
+.typed-cursor {
+    font-size: 4em;
+    font-weight: 400;
+    color: #dadd36;
+    text-shadow: 2px 2px #191a47;
+}
 .btn {
     color: white;
 }
